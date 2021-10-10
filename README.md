@@ -7,7 +7,8 @@
 #queries
 
 1. Retreieve deatils of all movie present in table
-![Screenshot (226)](https://user-images.githubusercontent.com/70876652/136685623-3704313b-bd6a-4f12-a73f-ead32c63ffff.png)
+![Screenshot (228)](https://user-images.githubusercontent.com/70876652/136685862-3e7cedc7-f03d-4ac5-9205-431b18a168bb.png)
+
 
 2.  Retrieve details of all movies with actor name 'Amir Khan'
-![Screenshot (227)](https://user-images.githubusercontent.com/70876652/136685639-bfd115b4-64f9-4ce2-9cd6-9761ac833091.png)
+![Screenshot (229)](https://user-images.githubusercontent.com/70876652/136685868-2470cb8b-1bb0-45d6-9c75-50fe8db3f5a1.png)
